@@ -57,4 +57,4 @@ const loadProjects = (projects) => {
     });
 } 
 
-fetch('scripts/projects.json').then(response => response.json()).then(loadProjects)
+fetch('/scripts/projects.json').then(response => response.json()).then(loadProjects)
