@@ -55,6 +55,6 @@ const loadProjects = (projects) => {
     projects.forEach(project => {
         elemProjects.appendChild(createProject(project))
     });
-}
+} 
 
-fetch('/scripts/projects.json').then(response => response.json()).then(loadProjects)
+fetch('scripts/projects.json').then(response => response.json()).then(loadProjects)
