@@ -1,25 +1,25 @@
 [
   {
     "name": "Site do Super Mario Bros. O Filme",
-    "image": "/assets/Mario.png",
+    "image": "assets/Mario.png",
     "tags": ["HTML", "CSS", "AOS Animate"],
     "link": "https://github.com/MatheusCesarAmaral/Super-Mario-Bros"
   },
   {
     "name": "Cápsula do tempo",
-    "image": "/assets/NLW.png",
+    "image": "assets/NLW.png",
     "tags": ["HTML", "CSS"],
     "link": "https://github.com/MatheusCesarAmaral/NLW"
   },
   {
     "name": "Galeria de fotos",
-    "image": "/assets/Galeria.png",
+    "image": "assets/Galeria.png",
     "tags": ["HTML", "CSS", "JavaScript", "jQuery", "Bootstrap"],
     "link": "https://github.com/MatheusCesarAmaral/Galeria-de-fotos"
   },
   {
     "name": "Calculador de IMC",
-    "image": "/assets/IMC.png",
+    "image": "assets/IMC.png",
     "tags": ["HTML", "CSS", "JavaScript"],
     "link": "https://github.com/MatheusCesarAmaral/IMC"
   }
