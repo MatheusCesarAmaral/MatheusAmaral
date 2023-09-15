@@ -16,5 +16,11 @@
     "image": "assets/Galeria.png",
     "tags": ["HTML", "CSS", "JavaScript", "jQuery", "Bootstrap"],
     "link": "https://github.com/MatheusCesarAmaral/Galeria-de-fotos"
+  },
+  {
+    "name": "Shorts-Summary",
+    "image": "assets/Cover.png",
+    "tags": ["HTML", "CSS", "JavaScript", "Node.js", "IA"],
+    "link": "https://github.com/MatheusCesarAmaral/Shorts-Summary"
   }
 ]
